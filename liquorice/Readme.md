@@ -1,0 +1,1 @@
+Liquorice is a non microsoft falvour which means it doesn't have .net core SDK and SQL server client tools.
